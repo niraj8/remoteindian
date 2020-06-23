@@ -2,7 +2,7 @@
 
 ##  ⚡️ Quickfire Round
 
-### **Where is your current homebase ?**
+### Where is your current homebase ?
 
 I am currently living in Jaisinghpura, a small village near my hometown Jaipur. It is a very serene and peaceful place.
 
@@ -14,7 +14,7 @@ There are some 50 luxurious villas built over here with facilities like swimming
 
 ![](/interviews/ankit_cj_1.jpeg)
 
-### **Tell us a little bit about your lifestyle ?**
+### Tell us a little bit about your lifestyle ?
 
 I find myself to be a digital entrepreneur, rather than a travelpreneur.
 
@@ -22,23 +22,23 @@ I choose work/ projects which are location independent. However, I don’t trave
 
 Quite a lot of times, I am working from my home, in the comfort of my pyjamas. And in between - Cooking. Cleaning. Playing.
 
-### **Where have you travelled/lived after working remotely ?**
+### Where have you travelled/lived after working remotely ?
 
 Dharamshaala, McLeodGanj, Rakkar Village, Delhi, Chandigarh, Kasauli, Mukteshwar, Den Haag, Amsterdam, Netherlands.
 
 I am looking to travel next to Chiang Mai, Cambodia, Vietnam and Bali. My appetite for solo travel is filled up for now. Hence I am looking forward to going on a voyage with a friend ( preferably, my future girlfriend/ wife ).
 
-### **Highest education qualification ?**
+### Highest education qualification ?
 
 Graduate, B.Tech, IIT Delhi
 
-### **Occupation ?**
+### Occupation ?
 
 Self acclaimed Brand Design Expert 😛. I love conceptualising brands. Well for some credibility, let me just say, I have worked with UBER.
 
 I also provide personal consulting/ coaching [sessions](mailto:%20ankitczen@gmail.com?subject=Coaching%20Discovery Session [Remote India]).
 
-### **What is your family/friends reaction to remote working ?**
+### What is your family/friends reaction to remote working ?
 
 My parents were not convinced when I started. They had their fears and apprehensions. Stuff like I won’t be able to make enough money, or live the lifestyle I have been used to living. Now when they see my income flows, my lifestyle, and the major thing that matters to them — my happiness, they are mostly happy with what I am doing, except for the part, _‘ladki walon ko kya bataye hum’_ 😛
 
@@ -48,7 +48,7 @@ Most of my extended family still do not understand what I do or how I earn a liv
 
 Friends are mostly in awe with my journey, constantly getting inspired to choose paths like these. Yeah, that sometimes makes you feel like a celebrity! 😁
 
-### **How would you define your journey till now ?**
+### How would you define your journey till now ?
 
 My journey is not much about travelling, or working while travelling. It is more about following my curiosities, choosing work that I am actually interested to do, and being able to make free choices (free of any form of influence or social conditioning).
 
@@ -56,19 +56,19 @@ My journey is not much about travelling, or working while travelling. It is more
 
 That’s what I strive everyday, for myself, and for everyone I am able to help.
 
-### **Years of total experience ?**
+### Years of total experience ?
 
 6+ years
 
-### **Years of freelance/remote experience ?**
+### Years of freelance/remote experience ?
 
 1 year
 
-### **When I think about the ability to work freelance/remotely ...**
+### When I think about the ability to work freelance/remotely ...
 
 To me, freelancing is all about freedom. Not being committed to a full time job, and rather pursuing things as short term/ long term projects, makes you put a whole lot of energy on them, bringing out best results and moving on. Rather than, feeling stuck onto something.
 
-### **What was your key motivation for being freelancer/remote work ?**
+### What was your key motivation for being freelancer/remote work ?
 
 **Freedom**
 
@@ -82,7 +82,7 @@ To me, freelancing is all about freedom. Not being committed to a full time job,
 
 ## 🔥 Fireside Chat
 
-### **How did you land your first remote/freelance gig ?**
+### How did you land your first remote/freelance gig ?
 
 I created my fiverr profile in May 2017 while I was employed in a full time job. I loved to design, and initially, it was more about doing it for the sake of my passion. I created a gig on fiverr, to help companies create a logo for $5. There was lot of competition on fiverr and I merely got 3 projects in the first month. I wasn’t worried about it as I was already getting my cashflow through the full time job.
 
@@ -90,7 +90,7 @@ It gradually rose from $5 a project to $50 an hour. And the monthly cashflows be
 
 I have had my periods of drought, where I had merely made money to sustain myself, but then that’s a part of freelancing. At least initially, till you make enough systems to make you passive incomes from a lot of sources.
 
-### **Do you have any rituals or habits which help you to work remotely ?**
+### Do you have any rituals or habits which help you to work remotely ?
 
 I have a daily list of habits that I need to fulfil. I have an app which reminds me of these. Ticking them one by one gives me a feeling of progress on a daily basis. Some of them are:
 
@@ -99,11 +99,11 @@ I have a daily list of habits that I need to fulfil. I have an app which reminds
 - Social activity \[I try to meet, socialise preferably, or at least talk to a person on a similar mindset plane on a daily basis to keep myself sane\].
 - Weekly Goal Alignment session \[I constantly try to keep aligning/ optimizing my goals, keeping a goal chart on paper, sticking it somewhere, to keep track\]. The goal is to have laser focus. And I know my speed of moving towards my goal will move exponentially , as I am clearer and clearer about them \[firm believer in the power of thoughts aka The Law of Attraction\].
 
-### **What advice would you give to someone who is out there looking for a remote job or freelance work ?**
+### What advice would you give to someone who is out there looking for a remote job or freelance work ?
 
 **Network!** Talk to existing remote workers. Join communities. Be in touch. You will learn the rest automatically. And be calm and patient. Things will happen gradually. Bring clarity & focus. The universe is going to help.
 
-### **What is the biggest benefit of working remotely ?**
+### What is the biggest benefit of working remotely ?
 
 Freedom. To follow your curiosity. To act on your own instincts. That leads you to places you have always dreamt of.
 
@@ -111,7 +111,7 @@ Freedom. To follow your curiosity. To act on your own instincts. That leads you 
 
 ![](/interviews/ankit_cj.jpg)
 
-### **Do you see any cons of working as a remote freelancer / solopreneur and how do you try to overcome it ?**
+### Do you see any cons of working as a remote freelancer / solopreneur and how do you try to overcome it ?
 
 **Isolation** 
 
@@ -127,6 +127,6 @@ So, I constantly try to keep in touch with people who are on a similar working m
 
 Initially, there are some difficult months. You have to be strong. Try to create systems to keep bringing you active projects, and passive income.
 
-### **Where can people can find you on the internet (if they have more questions) ?**
+### Where can people can find you on the internet (if they have more questions) ?
 
 People can follow my journey at [www.ankitchhajed.com](http://www.ankitchhajed.com)

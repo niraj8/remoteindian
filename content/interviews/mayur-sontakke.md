@@ -1,4 +1,4 @@
-### **How did you get your first Remote Job?**
+### How did you get your first Remote Job?
 
 I was in a corporate job I was not happy with. I was desperately looking for a change. However, I didn't even think that it's possible to work remotely in my field of financial services.
 
@@ -6,7 +6,7 @@ Then, one day I got a call from a recruiter sitting in Israel, recruiting for an
 
 The budget for the position was lower than my earning at that point. However, the moment I heard that it was a work-from-home position, I knew that it was the job I wanted. I resigned from my corporate job even before the interview process started. I eventually got the job but on a pay cut. I couldn't complain!
 
-### **Do you have any rituals or habits which help you to work remotely?**
+### Do you have any rituals or habits which help you to work remotely?
 
 The biggest challenge in Remote Work is to stay disciplined. Honestly, I can't remain focused for too long if I'm working in the comfort of home. Thus, I prefer coworking spaces.
 
@@ -14,7 +14,7 @@ Since I work on multiple projects, I prefer to keep track of deliverables throug
 
 I value human connection. Although all my team works remotely, I try to find periodic opportunities to meet my colleagues in person.
 
-### **What advice would you give to someone who is out there looking for a remote job?**
+### What advice would you give to someone who is out there looking for a remote job?
 
 It's easy to lose the sight of the bigger picture when the primary motive of looking for a remote job is to be able to travel. While traveling is a perk offered by Remote jobs, it's not everything.
 
@@ -22,7 +22,7 @@ Remote or not, the basics of doing good in any job are the same. Know yourself w
 
 If you end up taking a job just because it's remote, without thinking about how it helps you in your career, you are simply choosing fun over hard work. Having said that, it's true that some fields (such as IT, designing, Social Media, e-commerce) are more conducive to remote work.
 
-### **What is the biggest benefit of working remotely?**
+### What is the biggest benefit of working remotely?
 
 The biggest benefit of remote work is the mind space it gives you to think creatively and think about what's important to you.
 
@@ -32,7 +32,7 @@ A large part of the day while working in traditional 9-5 job goes into thinking 
 
 On a broader level, remote work is environment-friendly with lesser cars running on the roads, and the ethos of sharing that it builds in oneself (think about coworking spaces, communities, coliving etc.).
 
-### **Do you see any cons of working remotely and how do you try to overcome it?**
+### Do you see any cons of working remotely and how do you try to overcome it?
 
 Most of the cons of working remotely are related to emotional factors and discipline issues.
 
@@ -42,7 +42,7 @@ It's normal to feel lonely, miss those water-cooler conversations, see your life
 
 Being a social person, I prefer to attend a lot of events as an opportunity to meet new people. As I have said before, I work from coworking spaces for a social environment and to overcome some of the discipline issues.
 
-### **In the last two years, you have traveled to a lot of countries. What are your feelings when you look back?**
+### In the last two years, you have traveled to a lot of countries. What are your feelings when you look back?
 
 Fantastic and unbelievable! Remote work and traveling have made me more open to the world. I have done things and adventures that I never thought I will ever do.
 
