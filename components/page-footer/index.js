@@ -6,7 +6,7 @@ const PageFooter = () => (
   <FooterWrap className="border-top">
     <div className="container">
       <div className="foot-cols-wrap row">
-        <div className="site-meta-wrap col-12 col-sm-12 col-lg col-xl col-md-12">
+        <div className="site-meta-wrap col-xs-12 col-md-6">
           <div className="site-meta">
             <div className="brand-detail">
               <a href="/" className="brand">
@@ -28,13 +28,37 @@ const PageFooter = () => (
                 &#x1f1ee;&#x1f1f3;
               </p>
             </div>
-            {/* <p className='meta-links'>
-              &copy; roadmap.sh &middot;
-              &nbsp; <a href="/about">FAQ</a> &middot;
+            <p className="meta-links">
+              &copy; RemoteIndian
+              {/* &middot; */}
+              {/* &nbsp; <a href="/about">FAQ</a> &middot;
               &nbsp; <a href="/terms">Terms</a> &middot;
-              &nbsp; <a href="/privacy">Privacy</a>
-            </p> */}
+              &nbsp; <a href="/privacy">Privacy</a> */}
+            </p>
           </div>
+        </div>
+        <div className="site-contribute foot-col col-xs-12 col-md-6">
+          <ul>
+            <li className="foot-header">Credits</li>
+            <li>
+              ❤️ This site has been heavily inspired by{" "}
+              <a href="https://roadmap.sh" target="_blank">
+                Roadmap.sh
+              </a>
+            </li>
+            <li>
+              🤗 Most of the information present in the guides is because of{" "}
+              <a href="https://remoteindian.com/#signup" target="_blank">
+                our wonderful slack community
+              </a>
+            </li>
+            <li>
+              🙌 Last but not the least, Thank you {" "}
+              <a href="https://remoteindian.com/thanks" target="_blank">
+                patrons!
+              </a>
+            </li>
+          </ul>
         </div>
         {/* <div className="site-contribute foot-col col-12 col-sm-4 col-lg-2">
           <ul>
@@ -64,17 +88,6 @@ const PageFooter = () => (
         </div> */}
       </div>
     </div>
-
-    {/* Do not show on local */}
-    {process.env.GA_SECRET && (
-      <>
-        <div id="codefund"></div>
-        <script
-          src="https://app.codefund.io/properties/681/funder.js"
-          async
-        ></script>
-      </>
-    )}
   </FooterWrap>
 );
 
