@@ -21,6 +21,7 @@ export const FeaturedContentWrap = styled.div`
     margin-bottom: 40px;
     margin-top: 25px;
     color: #999;
+    text-align: center;
 
     span {
       background: #f8f9fa;
