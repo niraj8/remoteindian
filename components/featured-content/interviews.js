@@ -8,7 +8,7 @@ const FeaturedInterviews = () => (
     <div className="container">
       <p className='border-through featured-separator'>
           <span>
-            Interviews mostly visited by the community&nbsp;
+            Interviews most visited by the community&nbsp;
             <a href="/interviews" className="dark-link d-none d-sm-none d-md-inline d-xl-inline">View all Interviews &rarr;</a>
           </span>
       </p>
