@@ -28,5 +28,93 @@
     "author": "avi87",
     "updatedAt": "2020-03-14T15:48:21.191Z",
     "createdAt": "2020-03-14T15:48:21.191Z"
+  },
+  {
+    "title": "How to get into Toptal",
+    "description": "Or any of the popular places to get gigs",
+    "url": "/guides/toptal",
+    "fileName": "toptal",
+    "featured": false,
+    "author": "avi87",
+    "upcoming": true,
+    "updatedAt": "2020-03-14T15:48:21.191Z",
+    "createdAt": "2020-03-14T15:48:21.191Z"
+  },
+  {
+    "title": "How to stay organised while working remotely",
+    "description": "Being productive from home",
+    "url": "/guides/productivity",
+    "fileName": "productivity",
+    "featured": false,
+    "author": "avi87",
+    "upcoming": true,
+    "updatedAt": "2020-03-14T15:48:21.191Z",
+    "createdAt": "2020-03-14T15:48:21.191Z"
+  },
+  {
+    "title": "What are the best places to learn coding / online bootcamps",
+    "description": "",
+    "url": "/guides/learn-coding",
+    "fileName": "learn-coding",
+    "featured": false,
+    "author": "avi87",
+    "upcoming": true,
+    "updatedAt": "2020-03-14T15:48:21.191Z",
+    "createdAt": "2020-03-14T15:48:21.191Z"
+  },
+  {
+    "title": "Why remote work makes sense for India",
+    "description": "",
+    "url": "/guides/india",
+    "fileName": "india",
+    "featured": false,
+    "author": "avi87",
+    "upcoming": true,
+    "updatedAt": "2020-03-14T15:48:21.191Z",
+    "createdAt": "2020-03-14T15:48:21.191Z"
+  },
+  {
+    "title": "How to tackle the salary question",
+    "description": "",
+    "url": "/guides/salary",
+    "fileName": "salary",
+    "featured": false,
+    "author": "avi87",
+    "upcoming": true,
+    "updatedAt": "2020-03-14T15:48:21.191Z",
+    "createdAt": "2020-03-14T15:48:21.191Z"
+  },
+  {
+    "title": "How to start an agency",
+    "description": "",
+    "url": "/guides/agency",
+    "fileName": "agency",
+    "featured": false,
+    "author": "avi87",
+    "upcoming": true,
+    "updatedAt": "2020-03-14T15:48:21.191Z",
+    "createdAt": "2020-03-14T15:48:21.191Z"
+  },
+  {
+    "title": "How to start investing for early retirement",
+    "description": "FI(RE)",
+    "url": "/guides/fire",
+    "fileName": "fire",
+    "featured": false,
+    "author": "avi87",
+    "upcoming": true,
+    "updatedAt": "2020-03-14T15:48:21.191Z",
+    "createdAt": "2020-03-14T15:48:21.191Z"
+  },
+  {
+    "title": "Accepting payments through your website",
+    "description": "Paypal, Stripe, Razorpay, etc",
+    "url": "/guides/payments",
+    "fileName": "payments",
+    "featured": false,
+    "author": "avi87",
+    "upcoming": true,
+    "updatedAt": "2020-03-14T15:48:21.191Z",
+    "createdAt": "2020-03-14T15:48:21.191Z"
   }
 ]

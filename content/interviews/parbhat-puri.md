@@ -86,8 +86,6 @@ The ability to schedule my day and work with companies present globally. I have 
 
 Remote work demands self-motivation, some days can be lonely and boring. To overcome the issues, I sometimes help my father in his small business in the evening. And travel after 2-3 months. Major motivation comes from the benefits of remote work in the Indian context than possible issues.
 
-![](/interviews/parbhat_profile-768x1024.jpg)
-
 ### Where can people can find you on the internet (if they have more questions)?
 
 My website: [https://parbhatpuri.com](https://parbhatpuri.com) Twitter: [https://twitter.com/parbhatpuri](https://twitter.com/parbhatpuri)

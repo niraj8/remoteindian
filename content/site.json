@@ -10,7 +10,8 @@
   "url": {
     "web": "https://remoteindian.now.sh",
     "repo": "https://github.com/remoteindian/remoteindian",
-    "repoData": "https://github.com/remoteindian/remoteindian/tree/master/content"
+    "repoData": "https://github.com/remoteindian/remoteindian/tree/master/content",
+    "addGuide": "https://github.com/remoteindian/remoteindian/tree/master/contributing/guide.md"
   },
   "keywords": [
     "remote work india",

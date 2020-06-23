@@ -1,12 +1,17 @@
 import Link from 'next/link';
 import { HeroSectionWrap } from './style';
+import { Mark } from "components/mark";
 
 const HeroSection = () => (
   <HeroSectionWrap>
     <div className="container">
-      <h2>Your success does not depend upon your pincode.</h2>
-      {/* <h1>RemoteIndian Community</h1> */}
-      <p>Join a community of folks who are working remotely in India 🇮🇳</p>
+      <h2>
+        RemoteIndian community is an encouragement network for more than <Mark>1000</Mark> folks who are
+        working remotely in India 🇮🇳
+      </h2>
+      <p>
+        Your success should not depend upon your pincode in the Internet age 🌐
+      </p>
     </div>
   </HeroSectionWrap>
 );

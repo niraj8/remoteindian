@@ -7,10 +7,25 @@ import GuideFooter from 'components/guide-footer';
 import { getRequestedGuide } from 'lib/guide';
 import Helmet from 'components/helmet';
 import siteConfig from 'content/site';
+import { Summary, SummaryContainer, UpcomingContainer } from "components/roadmap-resources/style";
 
 const Guide = ({ guide, canonical }) => {
   if (!guide) {
     return <Error statusCode={ 404 } />
+  }
+  if (guide.upcoming) {
+    return (
+      <GuideLayout>
+        <Helmet
+          title={guide.title}
+          description={guide.description}
+          canonical={guide.canonical || canonical}
+        />
+        <UpcomingContainer>
+          <GuideBody guide={{ fileName: "upcoming" }} />
+        </UpcomingContainer>
+      </GuideLayout>
+    );
   }
 
   return (
