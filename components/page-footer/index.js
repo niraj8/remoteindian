@@ -47,9 +47,9 @@ const PageFooter = () => (
               </a>
             </li>
             <li>
-              🤗 Most of the information present in the guides is because of{" "}
+              🤗 The information present in the guides is courtesy{" "}
               <a href="https://remoteindian.com/#signup" target="_blank">
-                our wonderful slack community
+                our slack community
               </a>
             </li>
             <li>

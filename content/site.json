@@ -8,10 +8,13 @@
   "logo": "/brand.png",
   "logoSquare": "/brand-square.png",
   "url": {
-    "web": "https://remoteindian.now.sh",
+    "web": "https://beta.remoteindian.com",
     "repo": "https://github.com/remoteindian/remoteindian",
     "repoData": "https://github.com/remoteindian/remoteindian/tree/master/content",
-    "addGuide": "https://github.com/remoteindian/remoteindian/tree/master/contributing/guide.md"
+    "addGuide": "https://github.com/remoteindian/remoteindian/tree/master/contributing/guide.md",
+    "addInterview": "https://github.com/remoteindian/remoteindian/tree/master/contributing/interview.md",
+    "contribute": "https://github.com/remoteindian/remoteindian/tree/master/contributing",
+    "issue": "https://github.com/remoteindian/remoteindian/issues/new"
   },
   "keywords": [
     "remote work india",

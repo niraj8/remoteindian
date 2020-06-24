@@ -6,11 +6,11 @@ const HeroSection = () => (
   <HeroSectionWrap>
     <div className="container">
       <h2>
-        RemoteIndian community is an encouragement network for more than <Mark>1000</Mark> folks who are
-        working remotely in India 🇮🇳
+        <Mark>RemoteIndian community</Mark> is an encouragement network for more
+        than 1000 folks who are working remotely in India 🇮🇳
       </h2>
       <p>
-        Your success should not depend upon your pincode in the Internet age 🌐
+        Your success does not depend upon your pincode in the Internet age 🌐
       </p>
     </div>
   </HeroSectionWrap>
