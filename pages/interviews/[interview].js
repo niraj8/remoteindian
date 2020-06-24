@@ -3,7 +3,7 @@ import GuideLayout from 'layouts/guide';
 import { serverOnlyProps } from 'lib/server';
 import GuideHeader from 'components/interview-header';
 import GuideBody from 'components/interview-body';
-import GuideFooter from 'components/guide-footer';
+import GuideFooter from 'components/interview-footer';
 import { getRequestedInterview } from 'lib/interview';
 import Helmet from 'components/helmet';
 import siteConfig from 'content/site';

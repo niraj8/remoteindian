@@ -19,7 +19,7 @@ const GuidesList = () => (
     <SiteNav />
     <PageHeader title={PageTitle} subtitle={PageDescription}>
       <BadgesList className="mt-4">
-        <BadgeLink href={siteConfig.url.addGuide} target="_blank">
+        <BadgeLink href={siteConfig.url.addInterview} target="_blank">
           <SecondaryBadge>
             <FontAwesomeIcon icon={faCodeBranch} />
             Share your story
